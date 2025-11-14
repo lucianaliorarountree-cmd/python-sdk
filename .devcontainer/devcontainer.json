@@ -1,0 +1,4 @@
+cbcoutinho:feat/session-id-propagation{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
